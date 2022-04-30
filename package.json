@@ -1,0 +1,25 @@
+{
+  "name": "jamsstack-11ty-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "watch": "eleventy --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiateeters/JAMStack-11ty-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthiateeters/JAMStack-11ty-blog/issues"
+  },
+  "homepage": "https://github.com/cynthiateeters/JAMStack-11ty-blog#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
