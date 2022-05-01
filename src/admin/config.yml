@@ -12,7 +12,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Author", name: "author", widget: "string"}
-      - { label: "Author", name: "author", widget: "string"}
       - { label: "Date", name: "date", widget: "datetime"}
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Featued Image", name: "img", widget: "image"}
