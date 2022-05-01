@@ -1,6 +1,6 @@
 ---
 title: My Fifth Article
-author: Kevin Powell
+author: Cynthia Teeters
 date: 2021-06-15
 tags: ["post"]
 image: /assets/blog/article-5.jpg

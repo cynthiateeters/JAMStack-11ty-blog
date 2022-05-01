@@ -1,6 +1,6 @@
 ---
 title: My First Article
-author: Kevin Powell
+author: Cynthia Teeters
 date: 2021-05-01
 tags:
   - post
